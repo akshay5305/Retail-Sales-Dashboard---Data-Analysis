@@ -21,7 +21,7 @@ The dashboard provides visual insights into:
 
 ## 📂 Project Files
 
-- `Retail_Sales_Dashboard.pbix` – Power BI file (open in Power BI Desktop)
+- `Retail Sales Dashboard.pbit` – Power BI file (open in Power BI Desktop)
 - `dashboard_preview.png` – Screenshot of the dashboard (for preview)
 
 ## 🔍 Use Case
@@ -57,4 +57,4 @@ To view the dashboard:
 - Visual storytelling using dashboards
 
 ---
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) to know more!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshaykumar-garur-6a222b24a/) to know more!
