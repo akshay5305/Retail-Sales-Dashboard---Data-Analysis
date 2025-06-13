@@ -32,14 +32,6 @@ This dashboard was designed to help retail clients monitor business health and p
 - Monitoring of customer support tickets
 - Insight into which products drive revenue
 
-## 📈 Internship Context
-
-**Role**: Data Analyst Intern  
-**Company**: Rejag Technologies  
-**Duration**: Dec 2024 – Feb 2025 (3 months)  
-**Location**: Bangalore (Hybrid)  
-
-I worked alongside the data analytics team to support ERP and BI needs for clients. This project improved my ability to clean, analyze, and visualize real-world business data.
 
 ## 📎 How to Use
 
